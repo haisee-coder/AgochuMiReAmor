@@ -76,7 +76,10 @@
 <!-- ⭐ FOTO 1 -->
 <div class="foto">
     <h2> Us 💕</h2>
-    <img src="foto1.jpg" alt="1.jpg">
+    <a href="https://ibb.co/d4by2MXz">
+    <img src="https://i.ibb.co/WvD1y57Y/1.jpg" alt="1" border="0">
+</a>
+
     <p>A veces tengo miedo de no ser suficiente para, miedo de perder lo más bonito que tengo pero ese miedo se va cuando pienso en vos, cuando estoy con vos, cuando puedo escucharte,
 	porque me doy cuenta que con vos quiero intentarlo todo, quiero crecer, sanar, construir, poder soñar con vos y vivir sin pensar en nada mas.</p>
 </div>
@@ -122,4 +125,3 @@
 
 </body>
 </html>
-
