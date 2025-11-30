@@ -1,6 +1,4 @@
-# AgochuMiReAmor
-Dedicado a mi chanchi más hermosa owo
-<!DOCTYPE html>
+<Mi chanchi>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +28,7 @@ Dedicado a mi chanchi más hermosa owo
             margin: auto;
         }
 
-        .carta {
+        .carta, .foto, .gif {
             background: rgba(255, 255, 255, 0.15);
             padding: 30px;
             border-radius: 15px;
@@ -39,15 +37,12 @@ Dedicado a mi chanchi más hermosa owo
             box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
         }
 
-        .foto {
-            margin: 20px 0;
-        }
-
         img {
             width: 80%;
             max-width: 400px;
             border-radius: 15px;
             box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+            margin-bottom: 15px;
         }
 
         footer {
@@ -61,27 +56,64 @@ Dedicado a mi chanchi más hermosa owo
 <body>
 
 <header>
-    <h1>❤️ Para Ti, Mi Amor ❤️</h1>
-    <p>Aquí te dejo un pedacito de mi corazón en forma de página web.</p>
+    <h1>❤️ Para vos chanchi ❤️</h1>
+    <p>Te dejo un pedacito de mi corazón en forma de página web owo</p>
 </header>
 
 <div class="carta">
-    <h2>Mi Carta Para Ti</h2>
+    <h2>Una cartita para vos</h2>
     <p>
-        <!-- ✏️ CAMBIA ESTE TEXTO POR TU CARTA -->
-        Mi amor, eres la razón por la que sonrío cada día.  
-        Gracias por estar conmigo y hacer mi vida más bonita.
-        Esto es solo una pequeña forma de recordarte cuánto te amo.
+        Chanchi...
+		
+		Muchas veces hay cosas que no se como explicarla con simples palabras, pero siempre lo intento, para demostrarte lo que siento por vos es demasiado,
+		desde que llegaste a mi vida todo se hizo mucho más lindo, empece a cambiar para bien, me hiciste ser una mejor persona, generando muchos cambios profundos en mi.
+		Donde yo estaba cansado sin saber que hacer ni a donde ir, apareciste vos para iluminar todo con la increible personalidad que tenes y tu forma de escuchar, me iluminas la vida
+		Me enseñaste que amar no es de forma apurada ni desastrosa, es todo con calma y comunicación, siento que mi corazon por fin tiene un hogar en el cual sentirse querido.
+		Yo no te elegí por casualidad, te elegí porque en vos encontré un lugar seguro, tu voz me genera paz, porque en tu alma encontré el tipo de amor que siempre soñé.
     </p>
 </div>
 
+<!-- ⭐ FOTO 1 -->
 <div class="foto">
-    <h2>Nuestras Fotos 💕</h2>
+    <h2> Us 💕</h2>
+    <img src="foto1.jpg" alt="1.jpg">
+    <p>A veces tengo miedo de no ser suficiente para, miedo de perder lo más bonito que tengo pero ese miedo se va cuando pienso en vos, cuando estoy con vos, cuando puedo escucharte,
+	porque me doy cuenta que con vos quiero intentarlo todo, quiero crecer, sanar, construir, poder soñar con vos y vivir sin pensar en nada mas.</p>
+</div>
 
-    <!-- 🖼️ CAMBIA LAS RUTAS DE LAS FOTOS POR LAS TUYAS -->
-    <img src="foto1.jpg" alt="Nuestra foto 1">
-    <br><br>
-    <img src="foto2.jpg" alt="Nuestra foto 2">
+<!-- ⭐ FOTO 2 -->
+<div class="foto">
+    <h2>Foto 2 💕</h2>
+    <img src="foto2.jpg" alt="Foto 2">
+    <p>Escribe un mensaje especial aquí.</p>
+</div>
+
+<!-- ⭐ GIF 1 -->
+<div class="gif">
+    <h2>GIF 1 ✨</h2>
+    <img src="gif1.gif" alt="GIF 1">
+    <p>Texto para acompañar este GIF animado.</p>
+</div>
+
+<!-- ⭐ GIF 2 -->
+<div class="gif">
+    <h2>GIF 2 ✨</h2>
+    <img src="gif2.gif" alt="GIF 2">
+    <p>Otro espacio para escribir algo lindo.</p>
+</div>
+
+<!-- ⭐ FOTO 3 -->
+<div class="foto">
+    <h2>Foto 3 💕</h2>
+    <img src="foto3.jpg" alt="Foto 3">
+    <p>Una frase romántica para esta foto.</p>
+</div>
+
+<!-- ⭐ GIF 3 -->
+<div class="gif">
+    <h2>GIF 3 ✨</h2>
+    <img src="gif3.gif" alt="GIF 3">
+    <p>Un GIF más para darle vida a la página.</p>
 </div>
 
 <footer>
@@ -90,3 +122,4 @@ Dedicado a mi chanchi más hermosa owo
 
 </body>
 </html>
+
