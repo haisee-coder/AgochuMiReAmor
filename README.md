@@ -105,28 +105,38 @@
 </div>
 
 <!-- ⭐ GIF 2 -->
-<div class="gif">
-    <h2>GIF 2 ✨</h2>
-    <img src="gif2.gif" alt="GIF 2">
-    <p>Otro espacio para escribir algo lindo.</p>
+<div class="foto">
+    <h2>The noblest way to love each other ✨</h2>
+    <a href="https://ibb.co/9kbMD7V1"><img src="https://i.ibb.co/Q3P5g4CT/fd478bfb4ffef04423a7f7d420c136da.jpg" alt="fd478bfb4ffef04423a7f7d420c136da" border="0"></a>
+    <p>Te amo de una forma que a veces me da miedo, porque nunca habia sentido tanto por una persona como lo siento por vos,
+	pero eso tambien me da paz el saber que puedo demostrarte todo de manera sincera y real como siento las cosas por vos, sos mi persona favorita, la que me hacer
+	sentirme feliz dia a dia y con la que me encanta pasar tiempo.</p>
 </div>
 
 <!-- ⭐ FOTO 3 -->
 <div class="foto">
-    <h2>Foto 3 💕</h2>
-    <img src="foto3.jpg" alt="Foto 3">
-    <p>Una frase romántica para esta foto.</p>
+    <h2>The easiest way to die of love for you 💕</h2>
+    <a href="https://ibb.co/JjKNBzM2"><img src="https://i.ibb.co/23ywnjfP/e3cee48af0cfe4e3081de727736b25d6.jpg" alt="e3cee48af0cfe4e3081de727736b25d6" border="0"></a>
+    <p>Te amo de una forma simple, pero tambien intensa.
+	Te amo cuando leo tus mensajes, cuando te pienso, cuando te sueño.
+	Te amo cuando me hablas lindo y tambien cuando estas callada.
+	Te amo incluso cuando no estas presente porque lo que siento por vos no depende de la distancia.
+	Te amo de una forma muy sincera y real.
+	</p>
 </div>
 
 <!-- ⭐ GIF 3 -->
-<div class="gif">
-    <h2>GIF 3 ✨</h2>
-    <img src="gif3.gif" alt="GIF 3">
-    <p>Un GIF más para darle vida a la página.</p>
+<div class="foto">
+    <h2>I know everything is going to change for the better, my love. ✨</h2>
+    <a href="https://ibb.co/zh0GWFz4"><img src="https://i.ibb.co/N6HZgrMy/G65-O4-HFb-MAA9pdz.png" alt="G65-O4-HFb-MAA9pdz" border="0"></a>
+    <p>Gracias por existir y ser vos misma conmigo, donde yo tambien puedo ser yo mismo, donde ambos podemos demostrar lo que somos sin miedo a que nos juzguen,
+	siempre me vas a tener como tu apoyo, acordate que soy tu fan N° 1 y que siempre voy a festejar tus logros, que cuando tropieces sepas que me tenes a mi, que nunca
+	me voy a ir de tu lado y que siempre te voy a ser leal mi amor hermosa, chanchi te amo.
+ </p>
 </div>
 
 <footer>
-    Hecho con 💖 por mí, para ti.
+    Hecho con 💖 por Josu, para mi chanchi Agochu.
 </footer>
 
 </body>
